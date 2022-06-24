@@ -13,15 +13,15 @@ Our discord server can be found here:
 [![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
 
 
-BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1XAfawNJtao4dRRLj_BBI9F3gvS5HITyMaUKxwAJDMJ8/edit?usp=sharing
+BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
 
 
 # Project Goals:
 - QuickDraw V2 probe
 - Integrated Sherpa Mini
 - Ultra compact and anti-backlash swivel z-joints
-- Heavy duty XY and Z belttensioning with one knob
-- New CFD optimized partcooling ducts
+- Heavy duty XY and Z belt tensioning with one knob
+- New CFD optimized part cooling ducts
 - Reinforced XY joints
 - Optimized for reduced belt wear
 - Bearings with improved lifespan
