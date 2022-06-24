@@ -1,0 +1,1 @@
+These are mirrored to allow the AB drives to be flipped. The reason for this is to enable full z use with a flipped Z-Drive setup. To avoid collisions between Z-Idlers and motors. 

@@ -1,7 +1,9 @@
-# Redoubt
-Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 
-This project is still a Work-In-Progress.
+# Redoubt Printer
+
+
+> :warning: **This project is still in beta**: Over many months the design has proven itself in the closed beta. However dedicated skirts for the z drives are still missing. Partial CAD is included to make any design as you wish.
+
 
 Redoubt is entirely scratch design based on the efforts of the V2.2 for better performance, reliability and less maintenance. 
 
@@ -12,12 +14,6 @@ Our discord server can be found here:
 
 
 BOM/Sourcing Guide can be found here: https://docs.google.com/spreadsheets/d/1XAfawNJtao4dRRLj_BBI9F3gvS5HITyMaUKxwAJDMJ8/edit?usp=sharing
-
-# Beta Signup
-
- - Please sign up for our "closed beta" here: https://forms.gle/fX1v22263jBBYJCJA
- - Note: signing up pretty much guarantees exceptance, signup exists mostly to explain that you may or may not be lighting your money on fire for a mostly finished product.
- - Note2: you must be a member of our discord, and have a github account to participate.
 
 
 # Project Goals:
