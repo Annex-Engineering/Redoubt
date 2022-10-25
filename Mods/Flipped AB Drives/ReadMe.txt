@@ -1,0 +1,1 @@
+This mod flips the motors on the AB drives so that they face upwards. This is important it you are running a flipped z configuration as it will prevent collisions between your steppers and the z idlers.
