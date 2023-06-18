@@ -1,5 +1,5 @@
 ##Spider Using TMC2209s
-##40:1 worm reduction
+##40:1 worm reduction, if running 20:1 change the gear_ratio to 20:1
 
 
 ## In Z-MOT Position
