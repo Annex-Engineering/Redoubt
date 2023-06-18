@@ -1,0 +1,78 @@
+##Spider Using TMC2209s
+##40:1 worm reduction
+
+
+## In Z-MOT Position
+## Z0 Stepper - Front Left
+[stepper_z]
+step_pin: PD14
+dir_pin: PD13
+enable_pin: !PD15
+rotation_distance: 40
+gear_ratio: 40:1
+microsteps: 16
+endstop_pin: probe:z_virtual_endstop
+position_max: 310
+position_min: -5
+homing_speed: 8
+second_homing_speed: 3
+homing_retract_dist: 3
+
+[tmc2209 stepper_z]
+uart_pin: PD10
+interpolate: false
+run_current: 1.0
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+##  In E1-MOT Position
+##  Z1 Stepper - Rear Left
+[stepper_z1]
+step_pin: PE6
+dir_pin: !PC13
+enable_pin: !PE5
+rotation_distance: 40
+gear_ratio: 40:1
+microsteps: 16
+
+[tmc2209 stepper_z1]
+uart_pin: PC14
+interpolate: false
+run_current: 1.0
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+##  In E2-MOT Position
+##  Z2 Stepper - Rear Right
+[stepper_z2]
+step_pin: PE2
+dir_pin: PE4
+enable_pin: !PE3
+rotation_distance: 40
+gear_ratio: 40:1
+microsteps: 16
+
+[tmc2209 stepper_z2]
+uart_pin: PC15
+interpolate: false
+run_current: 1.0
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+##  In E3-MOT Position
+##  Z3 Stepper - Front Right
+[stepper_z3]
+step_pin: PD12
+dir_pin: !PC4
+enable_pin: !PE8
+rotation_distance: 40
+gear_ratio: 40:1
+microsteps: 16
+
+[tmc2209 stepper_z3]
+uart_pin: PA15
+interpolate: false
+run_current: 1.0
+sense_resistor: 0.110
+stealthchop_threshold: 0
+﻿
